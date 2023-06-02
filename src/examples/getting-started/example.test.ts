@@ -1,5 +1,7 @@
 import { it, expect, test } from 'vitest';
 
+// it and test are the exact same
+
 it('should work', () => {
   expect(true).toBe(true);
 });
